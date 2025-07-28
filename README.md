@@ -1,11 +1,23 @@
 # CurrencyBot
+## Real-Time Currency Conversion Bot
+
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Features](#features)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
 
 ## Description
 CurrencyBot is a Telegram bot that converts currencies in real time. It supports currencies like USD, EUR, and UAN. Making it easy for user to convert currencies and calculate exchange rates.
 
 ## Installation
 1. Ensure you have GO (version 1.18 or higher) installed.
-2. Clone the repository: ``
+2. Clone the repository: `git clone https://github.com/emil720a1/currencybotMc.git`
 3. Navigate to the folder `cd currencybot `.
 4. Install dependepcies: `go mod tidy`.
 5. Configure the bot (see Configuration section).
@@ -48,4 +60,4 @@ db_name: "currency_bot"
 This project is licensed under the MIT License, See the `LICENSE` file for details.
 
 ## Author
-- [emil720a.feat[McOleg]](
+- [emil720a.feat[McOleg]] - ggg2281w@gmail.com
