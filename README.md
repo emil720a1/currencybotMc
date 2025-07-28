@@ -60,4 +60,4 @@ db_name: "currency_bot"
 This project is licensed under the MIT License, See the `LICENSE` file for details.
 
 ## Author
-- [emil720a.feat[McOleg]] - ggg2281w@gmail.com
+- [emil720a.feat[McOleg]] - ggg228i1w@gmail.com
