@@ -1,0 +1,272 @@
+2025/07/28 10:04:06 Викликаємо HandleConvert: amount= 3000, from= USD, to= UAN
+2025/07/28 10:04:06 Обробка рядка: *USD/UAN*: Купівля 41.50, Продаж 42.01
+2025/07/28 10:04:06 GetRates повернув для USD: "*USD/UAN*: Купівля 41.50, Продаж 42.01\n"
+2025/07/28 10:04:06 Обробка рядка: "*USD/UAN*: Купівля 41.50, Продаж 42.01"
+2025/07/28 10:04:06 Translation buy: "Купівля"
+2025/07/28 10:04:06 Курс для USD: buy= 41.50, sell=42.01
+2025/07/28 10:04:06 Збережено конвертацію:: 3000.00 USD = 125265.00 UAN
+2025/07/28 10:04:16 Викликаємо HandleConvert: amount= 120, from= UAN, to= USD
+2025/07/28 10:04:16 Обробка рядка: *USD/UAN*: Купівля 41.50, Продаж 42.01
+2025/07/28 10:04:16 GetRates повернув для: USD: "*USD/UAN*: Купівля 41.50, Продаж 42.01\n"
+2025/07/28 10:04:16 Обробка рядка: "*USD/UAN*: Купівля 41.50, Продаж 42.01"
+2025/07/28 10:04:16 Translation buy: "Купівля"
+2025/07/28 10:04:16 Курс для USD: buy= 41.50, sell=42.01
+2025/07/28 10:04:16 : 120.00 UAN = 2.87 USD
+2025/07/28 10:04:35 Викликаємо HandleConvert: amount= 3, from= UA, to= Usd
+2025/07/28 10:05:11 chatID %!d(string=abc): Невірний формат суми: %!s(MISSING)
+2025/07/28 10:05:24 Викликаємо HandleConvert: amount= 100, from= XYZ, to= UAN
+2025/07/28 10:05:59 Викликаємо HandleConvert: amount= 100, from= GBP, to= UAN
+2025/07/28 10:06:17 Викликаємо HandleConvert: amount= 1e+07, from= USD, to= UAN
+2025/07/28 10:06:18 API повернуло: 107 валют
+2025/07/28 10:06:18 API повернуло: currencyCodeA=840, currencyCodeB=980, rateBuy=41.50, rateSell=42.01
+2025/07/28 10:06:18 API повернуло: currencyCodeA=978, currencyCodeB=980, rateBuy=48.80, rateSell=49.49
+2025/07/28 10:06:18 API повернуло: currencyCodeA=978, currencyCodeB=840, rateBuy=1.17, rateSell=1.18
+2025/07/28 10:06:18 API повернуло: currencyCodeA=826, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=392, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=756, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=156, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=784, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=971, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=8, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=51, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=973, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=32, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=36, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=944, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=50, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=975, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=48, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=108, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=96, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=68, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=986, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=72, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=933, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=124, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=976, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=152, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=170, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=188, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=192, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=203, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=262, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=208, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=12, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=818, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=230, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=981, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=936, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=270, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=324, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=344, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=191, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=348, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=360, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=376, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=356, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=368, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=352, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=400, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=404, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=417, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=116, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=410, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=414, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=398, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=418, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=422, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=144, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=434, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=504, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=498, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=969, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=807, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=496, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=480, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=454, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=484, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=458, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=943, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=516, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=566, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=558, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=578, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=524, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=554, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=512, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=604, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=608, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=586, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=985, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=600, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=634, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=946, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=941, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=682, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=690, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=938, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=752, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=702, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=694, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=706, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=968, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=748, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=764, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=972, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=788, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=949, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=901, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=834, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=800, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=858, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=860, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=704, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=950, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=952, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=886, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 API повернуло: currencyCodeA=710, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:06:18 Обробка рядка: *USD/UAN*: Купівля 41.50, Продаж 42.01
+2025/07/28 10:06:18 GetRates повернув для USD: "*USD/UAN*: Купівля 41.50, Продаж 42.01\n"
+2025/07/28 10:06:18 Обробка рядка: "*USD/UAN*: Купівля 41.50, Продаж 42.01"
+2025/07/28 10:06:18 Translation buy: "Купівля"
+2025/07/28 10:06:18 Курс для USD: buy= 41.50, sell=42.01
+2025/07/28 10:06:18 Збережено конвертацію:: 10000000.00 USD = 417550000.00 UAN
+2025/07/28 10:07:10 chatID 927118456: Викликано /history
+2025/07/28 10:07:39 chatID 927118456: Викликано /stats
+2025/07/28 10:07:39 chatID 927118456: Викликано /stats
+2025/07/28 10:07:39 Отримано статистику:: "USD -> UAN: 4 конвертацій, середня сума: 2500800.00 USD\nEUR -> UAN: 1 конвертацій, середня сума: 200.00 EUR\nUAN -> USD: 1 конвертацій, середня сума: 120.00 UAN"
+2025/07/28 10:07:56 chatID 927118456: Викликано /clearhistory
+2025/07/28 10:07:56 Історія очищена
+2025/07/28 10:07:58 chatID 927118456: Викликано /history
+2025/07/28 10:07:58  %s Історія порожня
+2025/07/28 10:08:01 Обробка рядка: *USD/UAN*: Купівля 41.50, Продаж 42.01
+2025/07/28 10:08:01 Обробка рядка: "*USD/UAN*: Купівля 41.50, Продаж 42.01"
+2025/07/28 10:08:01 Translation buy: "Купівля"
+2025/07/28 10:08:01 Курс для USD : buy=41.50, sell=42.01
+2025/07/28 10:08:03 Обробка рядка: *USD/UAN*: Купівля 41.50, Продаж 42.01
+2025/07/28 10:08:03 Обробка рядка: *EUR/UAN*: Купівля 48.80, Продаж 49.49
+2025/07/28 10:08:03 Обробка рядка: "*EUR/UAN*: Купівля 48.80, Продаж 49.49"
+2025/07/28 10:08:03 Translation buy: "Купівля"
+2025/07/28 10:08:03 Курс для EUR : buy=48.80, sell=49.49
+2025/07/28 10:11:44 Викликаємо HandleConvert: amount= 3000, from= USD, to= UAN
+2025/07/28 10:11:44 API повернуло: 107 валют
+2025/07/28 10:11:44 API повернуло: currencyCodeA=840, currencyCodeB=980, rateBuy=41.50, rateSell=42.01
+2025/07/28 10:11:44 API повернуло: currencyCodeA=978, currencyCodeB=980, rateBuy=48.80, rateSell=49.49
+2025/07/28 10:11:44 API повернуло: currencyCodeA=978, currencyCodeB=840, rateBuy=1.17, rateSell=1.18
+2025/07/28 10:11:44 API повернуло: currencyCodeA=826, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=392, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=756, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=156, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=784, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=971, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=8, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=51, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=973, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=32, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=36, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=944, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=50, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=975, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=48, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=108, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=96, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=68, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=986, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=72, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=933, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=124, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=976, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=152, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=170, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=188, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=192, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=203, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=262, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=208, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=12, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=818, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=230, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=981, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=936, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=270, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=324, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=344, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=191, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=348, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=360, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=376, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=356, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=368, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=352, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=400, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=404, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=417, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=116, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=410, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=414, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=398, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=418, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=422, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=144, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=434, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=504, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=498, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=969, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=807, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=496, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=480, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=454, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=484, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=458, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=943, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=516, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=566, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=558, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=578, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=524, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=554, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=512, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=604, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=608, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=586, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=985, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=600, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=634, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=946, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=941, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=682, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=690, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=938, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=752, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=702, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=694, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=706, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=968, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=748, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=764, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=972, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=788, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=949, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=901, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=834, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=800, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=858, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=860, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=704, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=950, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=952, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=886, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 API повернуло: currencyCodeA=710, currencyCodeB=980, rateBuy=0.00, rateSell=0.00
+2025/07/28 10:11:44 Обробка рядка: *USD/UAN*: Купівля 41.50, Продаж 42.01
+2025/07/28 10:11:44 GetRates повернув для USD: "*USD/UAN*: Купівля 41.50, Продаж 42.01\n"
+2025/07/28 10:11:44 Обробка рядка: "*USD/UAN*: Купівля 41.50, Продаж 42.01"
+2025/07/28 10:11:44 Translation buy: "Купівля"
+2025/07/28 10:11:44 Курс для USD: buy= 41.50, sell=42.01
+2025/07/28 10:11:44 Збережено конвертацію:: 3000.00 USD = 125265.00 UAN
+2025/07/28 10:11:59 Викликаємо HandleConvert: amount= 1e+07, from= USD, to= UAN
+2025/07/28 10:11:59 Обробка рядка: *USD/UAN*: Купівля 41.50, Продаж 42.01
+2025/07/28 10:11:59 GetRates повернув для USD: "*USD/UAN*: Купівля 41.50, Продаж 42.01\n"
+2025/07/28 10:11:59 Обробка рядка: "*USD/UAN*: Купівля 41.50, Продаж 42.01"
+2025/07/28 10:11:59 Translation buy: "Купівля"
+2025/07/28 10:11:59 Курс для USD: buy= 41.50, sell=42.01
+2025/07/28 10:11:59 Збережено конвертацію:: 10000000.00 USD = 417550000.00 UAN
